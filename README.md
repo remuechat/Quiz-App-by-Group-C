@@ -14,5 +14,6 @@ PLEASE REMEMBER THAT:
 - You need an online (https://bit.ly/3HMiJbd) or offline (https://bit.ly/35STIhi) compiler to run the "Quiz App by Group C.sln";
 - Finally, have fun!
 
+THIS SOFTWARE HAS NO LICENSE.
 
 || ArthurTheRetrograde™ and the Authors on behalf of Mindanao State University - College of Education Training Department
