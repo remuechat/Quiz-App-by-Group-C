@@ -16,4 +16,4 @@ PLEASE REMEMBER THAT:
 
 THIS SOFTWARE HAS NO LICENSE.
 
-|| ArthurTheRetrograde™ and the Authors on behalf of Mindanao State University - College of Education Training Department
+|| ArthurTheRetrograde and the Authors on behalf of Mindanao State University - College of Education Training Department
